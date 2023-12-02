@@ -2,8 +2,8 @@
 import Image from "next/image"
 import Link from "next/link";
 import Caramelo from "@/assets/caramelo.png";
-import Logo from "@/assets/logo-verde-texto.png"
-import Yellow from "@/assets/logo-unipatas-yellow.png"
+import Logo from "@/assets/logo-verde-texto.png";
+import Yellow from "@/assets/logo-unipatas-yellow.png";
 import { useState, useContext, useEffect } from "react";
 import CadastroConcluido from "./CadastroConcluido";
 import { CadastroContext } from "@/contexts/CadastroContext";
